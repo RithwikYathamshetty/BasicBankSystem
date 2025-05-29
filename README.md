@@ -31,10 +31,15 @@ BasicBankSystem/
 
 ## 🚀 How to Run
 
-### 🔧 Compile the Java files ▶️ Run the application
->>javac -d bin *.java
->>java -cp bin Main
+### 🔧 Compile the Java files
+```bash
+javac -d bin *.java
+```
 
+### ▶️ Run the application
+```bash
+java -cp bin Main
+```
 ---
 Make sure:
 - Java JDK 8 or higher is installed
