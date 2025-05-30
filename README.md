@@ -55,20 +55,23 @@ Make sure:
 - 📈 **Interest Calculation** — Optionally adds periodic interest
 - 🖥️ **GUI with Swing** — Clean and interactive interface
 - 👥 **Admin & User Roles** — Multiple user types supported
-
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-### 🔐 Login Interface  
-![Login](output_images/login.png)
+### 🔐 Login Screen
+![Login Screen](screenshots/login.png)
 
-### 🏦 Main GUI Interface  
-![GUI](output_images/gui.png)
+### 👤 User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
 
-### 📜 Transaction Logs  
-![Transactions](output_images/transactions_view.png)
+### 📄 Transaction History
+![Transaction History](screenshots/transaction-history.png)
 
+### 🛠 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
 ## 📚 Technologies Used
 
 - Java (JDK 8+)
@@ -76,8 +79,8 @@ Make sure:
 - File I/O
 - SHA-256 (Java `MessageDigest`)
 - Object-Oriented Design
-- 
+   
 ## 🙋‍♂️ Authors
 Developed by:
 - Rithwik Yathamshetty
-**Institution**: SR University
+- **Institution**: SR University
